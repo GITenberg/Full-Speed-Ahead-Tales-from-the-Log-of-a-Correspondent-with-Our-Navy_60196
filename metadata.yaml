@@ -1,5 +1,8 @@
 _repo: Full-Speed-Ahead-Tales-from-the-Log-of-a-Correspondent-with-Our-Navy_60196
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: archival
+  image_path: 60196-h/images/img-cover.jpg
 creator:
   author:
     agent_name: Beston, Henry
@@ -12,6 +15,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/4320
     wikipedia: https://en.wikipedia.org/wiki/Henry_Beston
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/60196#Full-Speed-Ahead-Tales-from-the-Log-of-a-Correspondent-with-Our-Navy
 gutenberg_issued: '2019-08-29'
 gutenberg_type: Text
 identifiers:
